@@ -6,7 +6,7 @@
 [![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions)](https://github.com/features/actions)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Author**: Azure Identity Architect | 15 years in Microsoft Identity & IAM  
+> **Author**: Mohit Kakkar | Azure Identity Architect | 15 years in Microsoft Identity & IAM  
 > **Stack**: Microsoft Entra ID · Azure Functions · Terraform · Python · GitHub Actions  
 > **Scope**: Production-ready JML automation — Joiner, Mover, Leaver lifecycle
 
